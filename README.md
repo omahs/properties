@@ -43,7 +43,7 @@ The properties can be used through unit tests or through fuzzing with [Echidna](
    - In case of using Hardhat, use: `npm install https://github.com/crytic/properties.git` or `yarn add https://github.com/crytic/properties.git`
    - In case of using Foundry, use: `forge install crytic/properties`
 
-3. According to tests required, go the the specific sections:
+3. According to tests required, go to the specific sections:
    - [ERC20 tests](#erc20-tests)
    - [ERC4626 test](#erc4626-tests)
    - [ABDKMath64x64 tests](#abdkmath64x64-tests)
